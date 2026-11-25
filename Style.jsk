@@ -1,0 +1,12 @@
+import React from "react";
+import FormLibrary from "./FormLibrary";
+
+function App() {
+  return (
+    <div>
+      <FormLibrary />
+    </div>
+  );
+}
+
+export default App;
